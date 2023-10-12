@@ -1,6 +1,6 @@
 # Hello Guys!
 Perkenalkan nama saya **Daffa Fikri Alfiansyah**.\
-Saya seorang **Backend Developer**.\
+Saya seorang **Backend Developer**.
 
 <p align="left">
 <a href="https://github.com/DaffaFikri01">
